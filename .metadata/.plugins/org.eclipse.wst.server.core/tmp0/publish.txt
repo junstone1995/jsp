@@ -1,4 +1,5 @@
 #Tomcat publish data
-#Wed Apr 29 16:19:41 KST 2020
+#Wed Apr 29 16:58:34 KST 2020
 org.eclipse.jst.jee.server\:testProject=/usr/local/Cellar/tomcat@8/8.5.54/libexec/wtpwebapps/testProject
+org.eclipse.jst.jee.server\:ServletMappingTest=/usr/local/Cellar/tomcat@8/8.5.54/libexec/wtpwebapps/ServletMappingTest
 org.eclipse.jst.jee.server\:servletTest=/usr/local/Cellar/tomcat@8/8.5.54/libexec/wtpwebapps/servletTest
